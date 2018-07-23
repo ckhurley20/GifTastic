@@ -1,0 +1,65 @@
+body {
+	font-family: 'Noto Sans', sans-serif;
+	background: black;
+	color: #fff;
+}
+
+.container {
+	position: relative;
+}
+
+header.jumbotron {
+	background: rgba(128, 128, 128, 0.616);
+	border-radius: 24px;
+}
+
+p {
+	font-family: 'Space Mono', monospace;
+	padding-top: 10px;
+	font-size: 18px;
+
+}
+
+
+h1 {
+	font-family: 'Space Mono', monospace;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 8px;
+}
+
+h3 {
+	font-family: 'Space Mono', monospace;
+	color: orangered;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.animal-btn {
+	background: rgba(128, 128, 128, 0.616);
+	border-radius: 12px;
+	color: white;
+	font-style: Courier New;
+	font-size: 15px;
+	padding: 10px;
+	margin: 5px;
+	margin-top: 20px;
+
+}
+
+#animal-form {
+	text-align: right;
+}
+
+
+
+input#animal-input {
+	color: #000;
+}
+
+input#add-animal.btn,btn-deafult {
+    color: white;
+    background: rgba(128, 128, 128, 0.616)
+}
