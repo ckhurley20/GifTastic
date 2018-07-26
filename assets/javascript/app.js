@@ -1,7 +1,7 @@
 //Initial array of movies	
 $(document).ready(function() {
 
-    var movieStart = ["Step Brothers", "Wedding Crashers", "Old School", "Christmas Vacation", "Superbad", "Pinapple Express", "The Departed", "Meet the Parents", "Tropic Thunder", "The Town"];	
+    var movieStart = ["Step Brothers", "Wedding Crashers", "Super Troopers", "Christmas Vacation", "Superbad", "Pinapple Express", "Mrs. Doubtfire", "Meet the Parents", "Tropic Thunder", "Oceans Eleven"];	
   
     //  create movieStart array buttons
     function renderButtons(){
